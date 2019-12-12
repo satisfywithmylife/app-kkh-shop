@@ -2,11 +2,6 @@
 $config['regex_function'] = 'ereg';
 $config['404'] = 'Error_Http404';
 
-// test api
-$config['mappings']['Test_ApiTest'] = array(
-    '^/test/(.*)',
-);
-
 $config['mappings']['Robots_Robots'] = array(
     '^/robots.txt',
 );
@@ -61,4 +56,8 @@ $config['mappings']['Check_List'] = array(
 
 $config['mappings']['Image_Make'] = array(
     '^/image/make',
+);
+
+$config['mappings']['Test_Test'] = array(
+    '^/test/test',
 );

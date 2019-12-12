@@ -1,0 +1,164 @@
+21:21:01 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+21:21:01 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '001eo5cU0lCoE02wVe8U0vfgcU0eo5cF',
+)
+21:21:02 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'qIT18Cqz260oxlQhyYOFPg==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:26:05 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/video/List.php	Video_ListController	19	array (
+)
+23:26:17 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/video/List.php	Video_ListController	19	array (
+)
+23:29:44 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081VpPdr0OHivn1Bljbr0zpudr0VpPdD',
+)
+23:29:44 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+23:29:44 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '7EJ/Kl86+fXqrPrjLdIkXQ==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:29:47 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/channel/List.php	Channel_ListController	16	array (
+)
+23:29:47 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '1',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:33:46 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '001lnYCK0bBVz92sRWEK0dBGCK0lnYC5',
+)
+23:33:46 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'TOJS9VwujZKCiBf4ymdzRA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:33:46 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+23:33:50 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '1',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:33:50 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/channel/List.php	Channel_ListController	16	array (
+)
+23:34:23 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071kflsI09gvig2TkRtI0WgksI0kflsT',
+)
+23:34:23 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'TOJS9VwujZKCiBf4ymdzRA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:34:23 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+23:34:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/channel/List.php	Channel_ListController	16	array (
+)
+23:34:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '1',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:34:58 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081V31IW13nUk01iikKW1aFiIW1V31II',
+)
+23:34:58 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'TOJS9VwujZKCiBf4ymdzRA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:34:58 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+23:35:02 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '1',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:35:02 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/channel/List.php	Channel_ListController	16	array (
+)
+23:36:01 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '061XhMpm0cmOJr1u4Fnm0Qf2qm0XhMpz',
+)
+23:36:01 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'OrHjTzFUzqq/KH0wD/apaA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:36:01 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+23:36:05 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/channel/List.php	Channel_ListController	16	array (
+)
+23:36:05 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '1',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:36:48 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071R0rfa01csiz1ea8ha0k6jfa0R0rfr',
+)
+23:36:48 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'OrHjTzFUzqq/KH0wD/apaA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:36:48 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+23:36:52 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/channel/List.php	Channel_ListController	16	array (
+)
+23:36:52 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '1',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:37:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '0718ci8l2VDrbE08ZN9l2Lys8l28ci8n',
+)
+23:37:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'OrHjTzFUzqq/KH0wD/apaA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+23:37:28 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+23:37:31 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/channel/List.php	Channel_ListController	16	array (
+)
+23:37:31 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '1',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:37:32 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/video/List.php	Video_ListController	19	array (
+)
+23:45:50 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972380',
+)
+23:46:04 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972379',
+)
+23:46:18 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972377',
+)
+23:46:31 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972189',
+)
+23:46:41 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '3',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:46:44 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972467',
+)
+23:46:51 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972466',
+)
+23:46:56 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972464',
+)
+23:47:06 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972463',
+)
+23:48:24 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/List.php	News_ListController	19	array (
+  'chaid' => '4',
+  'page_start' => '0',
+  'page_size' => '20',
+)
+23:48:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/news/Detail.php	News_DetailController	19	array (
+  'nid' => '1972484',
+)

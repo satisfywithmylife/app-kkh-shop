@@ -1,0 +1,21 @@
+13:52:49 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => '[object Object]',
+)
+13:53:10 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erWTbX1VBjSUHcBkym2HD4N0heeZAO0Mm0eYRVickL1LjpjdicnUyyMrgaicJiaK4ZcJCTEhVup17QicDw/132',
+)
+14:39:33 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erWTbX1VBjSUHcBkym2HD4N0heeZAO0Mm0eYRVickL1LjpjdicnUyyMrgaicJiaK4ZcJCTEhVup17QicDw/132',
+)
+14:39:42 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erWTbX1VBjSUHcBkym2HD4N0heeZAO0Mm0eYRVickL1LjpjdicnUyyMrgaicJiaK4ZcJCTEhVup17QicDw/132',
+)
+14:39:52 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erWTbX1VBjSUHcBkym2HD4N0heeZAO0Mm0eYRVickL1LjpjdicnUyyMrgaicJiaK4ZcJCTEhVup17QicDw/132',
+)
+16:05:21 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => '[object Object]',
+)
+16:40:47 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erWTbX1VBjSUHcBkym2HD4N0heeZAO0Mm0eYRVickL1LjpjdicnUyyMrgaicJiaK4ZcJCTEhVup17QicDw/132',
+)

@@ -1,0 +1,15 @@
+10:14:07 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => '[object Object]',
+)
+10:14:55 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erWTbX1VBjSUHcBkym2HD4N0heeZAO0Mm0eYRVickL1LjpjdicnUyyMrgsGCAazliaUFJRUr8ico8Gicxw/132',
+)
+10:20:14 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erWTbX1VBjSUHcBkym2HD4N0heeZAO0Mm0eYRVickL1LjpjdicnUyyMrgsGCAazliaUFJRUr8ico8Gicxw/132',
+)
+19:59:30 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmhead/gO1TDMLfREuvU1VlUfOxEMjaJom6wKhf1AkibmvZfZPw/132',
+)
+19:59:31 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/image/Make.php	Image_MakeController	18	array (
+  'avatar' => 'https://wx.qlogo.cn/mmhead/gO1TDMLfREuvU1VlUfOxEMjaJom6wKhf1AkibmvZfZPw/132',
+)

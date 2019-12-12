@@ -1,0 +1,476 @@
+00:18:40 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '021lp3Rs1QGsne0Cm0Rs15P8Rs1lp3RF',
+)
+00:18:40 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'xF8ohoIj/1uITh0RjVl23Q==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:18:40 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'O/4w4KbodelvRjJV6oZEWA==',
+  'session_key' => 'xF8ohoIj/1uITh0RjVl23Q==',
+  'encryptedData' => 'TAjOEJ3UGEsWBwOGOwK0BJVZzwQRrfNRwWsAUtf gTP3a0Kjun1dEA0yr J76YaVEm5wqEXOCT3oQoiJIpfCo/vGG3J Ozaii6HTdXtKKb0uNiyoJ i52iDMx/KRoRMbibfPRlzah70Wk/PajL HfNf79t5xzDZvhjZcbbh4CU5IARJhdZU2z2YRih02wxCMWYn7MkfzJGz9h/sxM2xMp5gedznesA6FClRWjUc41T/61LxIHrLC/0EZf82NMyY6R4DkLg/SgpibiHH5EmKgr6Ub1xi9erXXtW7mKrLGGYe/fQJXNhI9qFtNgkR2S3K84t6wJ1hJLOgIKsIVPMHEA0OxW8UBMFVdKjjeD5z 1pa0Jh54nKI0k9z1JnWlm2CP HKP7rTkh3vdheQ394udUpO64y3em7F2friOuqcyIGIqKbR0I0PkjuBu8uRPzvXDsUSq5D86y9ACV0EirAn2Aw==',
+)
+00:19:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '011yTs1V1xZNzX0elG3V15oz1V1yTs1V',
+)
+00:19:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'xF8ohoIj/1uITh0RjVl23Q==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:19:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '1dmdQUT/MGkf92GQFOI9kw==',
+  'session_key' => 'null',
+  'encryptedData' => 'D12CCxFTReY33/OQUzPpZrCzLLyvjtFdpm3Ijgw8rpaaEHPClPyeDTewZj05Q4ug/IRvIf5tsvH0RBU8rU24/ KxX7zrfh Y1odDE8QuNVEd2K7XX05SRiFAxnrwKrpjQ7zf4YFvH88uz2pZQERP06WP3jlf8M4x5AZqMtzJD8gCrT53r6zYBtJou8968Dwm4xVyV9Wa/elqluAKAPz90T4gvXhrWgqdkw7q8RIeaSrJdpUJUyHa0M5TH/B8uESKEvLqC/hWkas5/pYLkivwfRtUphsBP7pQymLvAOkP5hL 9Jwqe8oFvocl5 bbH2 wHSkwnE4dFH/QMR5hTl/Stxi2VIqzuvIY7btp6pWe7iaD2kcw5jfarH6D l ejKr0rmYFwk3YIteu7v6x6fZvd4zZUmORh7P8jxQ AyBYeIwKhNDOR9DxZsQq1k4Jni3eRP/tZIoTMI3R7XBeiHcQnw==',
+)
+00:22:57 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '021qga0H17uSW00EPLXG1iJn0H1qga0X',
+)
+00:22:57 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'MrJTZ1aCbQMlw2R37ckx3A==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:22:58 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'MCNlTetJ3f/w85F/ko5CXA==',
+  'session_key' => 'null',
+  'encryptedData' => 'ECYTczJkoPp3FuQCdYbSsRlu0GneV5lfLJnPZM2NWQ/van99babCDiINZSRFsgC220APjpveIgiAILAdkZzMUMzvM0cJ/uuy0DhhdUEWJbNerLqSS4crQdiAVpyX8ZMqoL4zX1PqWmU7/eyGX8mveeoA1m1RSGeO7JHiKvcUq8NiQvSLpE6MWqZKbddXWWs5q/MdCiJRubKxfnJtvkL0Yknk x7c4dHfxFmDTW8YOshVUbsLh/iTcYr/Oc9DLr80SFBIXJjITXc9jIfXwBNdEHVfy MtxdUGivx8RfkW3wLYUxxifhKvULuD3OQ03lBdmuKWs6MlL06y6ACAH97 EMfciYrDx2aAAI5PpPOG1NmOY5wkyHOMurMp10htAA3JSEkFsUaW5OAIsq DX67nuInCuwA25cBzS81E0XPNC8Wo0qw2D7V 2X8HHSQG9T1tMD S0fdPlMCv5Gvuxe4QHg==',
+)
+00:24:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '021PoEiS0RYD872r4PkS0erNiS0PoEio',
+)
+00:24:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'MrJTZ1aCbQMlw2R37ckx3A==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:24:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '8oVAHAfjNqVh3Sm1IHag5g==',
+  'session_key' => 'null',
+  'encryptedData' => 'xulDm/ ZRbcKRgshOms4TMSCWBKbvPp  tADAk8gfnX0gOKWDRpkcQIajjIYeMW8 xcydWQyroqiVXvn35kwU7VB WvZN aEkfRLEAx1lfMkfgiI8MznmO/LOviRgFnVAPY71DIrSL/0nuZharrwNr9V74IQyhd1QgWoy6wD3xCmCMgK/fyLt9Km 0X7WUW7yd4FgcKzCTUq3CB550i7FcvKlxsKpLjETVE0KgGXa2nE0peSjooCUSo3KscmKj1jWYS464wLEI npQlMKD8T6UF8TwWHYqomNV/J4sJLCvLGUmmzP/bxFa PMYE281jcZOefMHCQFv6K4mJ4I0VY2s /4TcozyQoiHlV/WQ9jKo5WLHX0dS893LtC5DjZYLHBJAwx95M2cqidF/J4/gd1FvQ2agaF5r4y wrziaR7cP1Ytcdr3pDoopWsxwMbFJHrLmsUxs9 lGFjFHblwrPaw==',
+)
+00:29:54 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '001azrb60vfq2E1iWad60qRAb60azrbx',
+)
+00:29:54 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '8jf62CI0hqYW5H1sxi2NyQ==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:29:54 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '17jevB/uSR db5Olhb6KJQ==',
+  'session_key' => 'null',
+  'encryptedData' => 'mM50zib/pb94xhWkjWgdEYQj XOJZPISSDMfB96AlCRx0wKkQ1jArN8/NOLiBX7RwgBSV1bjtyQnEACa0C0PnWcPpFWlra1PlGo7ATyWoG33xaOCkVqvtHyMbxHZ18OzXdBl5W4u4RQiICg8sJr0TIoke6uul2sdDZhVghMIlEktMoF5c4JLBBV8nc28qiFbVYP/mxUEj4HSmwT5ekVg1nznOvVouhwSt5idXlrgf4Zal9Ut4Ld0uW875xL98WZ6rdH5dLL dwPehmvGH2EyGVHZsTPimV9Otk9oX5oEO8P2Cp52Q4SqjZPIubOTn7qQys67rQUodMHuFxfiT/McKtND/x97TN5n496FUyacTZJK6CDH94ufC7ZvEcLrg53nXupR1CJouNk/IdoQcniGdPH14hPHdGpP8sUk5gdVrKOKC5JTkZSEGvoIBycmoTFaUIQ6 qB6RkUholC67EAIOw==',
+)
+00:30:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '001kQnNc2xtxPF07LSMc22xiNc2kQnN-',
+)
+00:30:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '8jf62CI0hqYW5H1sxi2NyQ==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:30:27 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '2WQkK3jj6wUlV4BBYfroMg==',
+  'session_key' => 'null',
+  'encryptedData' => 'X0TGRoVLejaZuW3VGQxbDhb6uz eJnLnZlql0 J93ULktcwoYiJMZOK/DawZTatjMeT9skdphlh1Xmuu w5pOQqVeD5sCzg54vcNwVIG6T9FUaenBS0xmGQ0GKKIDa7mw8tlABswNhlQAdyYcPXlbgLitqK13b9OyiUG0WtOxuzMBbzPO8Pl5xVSYY169yE9L9I4F7x8hXS9hyiulaKP98HdFO6/u1ybXIVgsddckEldBXl8GQDlzc9arlxlcqYsaIN9KajpO7XgE8xQuWo1k2HRBjUS9pA2pRyi7Ul9xk/G4hcO7Zh5NT3A6oFUVmQB9K2fBHNdNVPJAYGl01yMRyLnB4sk02/gI/oiDKUHXsGXVlAUjH5w6tuRhLJqBGqnGvXqTTHGnR2Uc0OJfAWYYFbTrAYjxbnQNMNCx8Fm1cXLyG2ohj0cnIG9eBtG26zOCyXu6Wjxx8NxpNRRsZuU6g==',
+)
+00:30:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071aHWQ927EYTK0dXQR92JULQ92aHWQb',
+)
+00:30:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'WjBYSMAJNkj09jNycdNZow==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:31:24 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '021u9BWF1YSJ580hTlWF13BSWF1u9BWX',
+)
+00:31:24 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'WjBYSMAJNkj09jNycdNZow==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:31:25 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '1EGB5/pGFWt4W3QZyKUuUg==',
+  'session_key' => 'WjBYSMAJNkj09jNycdNZow==',
+  'encryptedData' => 'Dw6NlrE9xjI tdz1SDSX A/o6 T50iOYRZe1gY DgGfn45y4DNTuo3JMt9htOlW PySBPoilRfmhH5mq99KAfF4viORDw5ogYvxjZ3a2rcB5jR5kR EJhLpp925A/Dz9nwKMiMLw00iGrT1HEsh5FcJrTGIJ7Ki/lB8g3YNIOsY8acBC/Qn lUyPiAVtcccA wPM6jwxxRK0dHYu1kS1PSwTgOoPJv7cm34DLTU49lDJMoLhK03UHiuib07RfYZvCvibUCRZB700bsQPp4dhXXwK7TcuCzKV/EzlRyRQ70zRbJ7Rs06rxM/qyN0oMzvdTZaA82JM9Q0J6uG12YyaWFRJEnVs5bjwfhO1khcju/xK7D3NmI5QhAZiOKWHvbCiRkjNQJZBRTH5/LAq3AyJ5ywSPzxkxkm8WVCilvZuFIiikVA46od0MTIeOT3xUZk6Nz5TSh1XJWzxeiVgr2aZCw==',
+)
+00:31:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '0714uNnb29HCsN0Pxulb2Us4ob24uNnm',
+)
+00:31:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'WjBYSMAJNkj09jNycdNZow==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:32:01 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '1uW800qg10xq9zTy4LIRHw==',
+  'session_key' => 'WjBYSMAJNkj09jNycdNZow==',
+  'encryptedData' => 'wg8NJhvos3neBOfo7iao1htmWqxJYbQ1ZQbVTOz6QhGNUmzgJ8Rnt6pZsdXWfzeUCxQEIxNuIMvLCbPYE/cGrZfJRfMe84HITLlQO26MxLlUHFhC3tE6QpdS QIPz0Od37/pLwosyVErAUYrrI63tuQrhJCC6WpZ9RdmSK0A2jccJSiBvWmnzjePTMXWouwJqSg7espUNIxpnE82wS0NH6CbZb5B74GX/BkoN2ygknjlnqiVI3uPv4e/B77wtegkTdOzB/U87l5xmr2wqFvUEjuTwkzkurzrmh3KPGfolbsUsAR7bFaOUjwjMP2PCL0p2rvn gb Cfwcj6Bc66FM0mAJ8lY6tl//VFXI1OIbmtoDwZ78NVhQsDVTcbuIafU5wXJbIlsnyXYmiynO1cfWEuw6pUDQKvZcykqR4qHgsocwlfkCPpXkXiosHxvO/ESVWX4dnOZyrV3IoMm6lh/9DQ==',
+)
+00:32:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081Q9F6z1Hfepa04cj5z10Ct6z1Q9F6I',
+)
+00:32:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'yPwNudnmRQbuHMq3mw98Mw==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:32:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'rHvso4JMWwWGjnKIuN4xvQ==',
+  'session_key' => 'yPwNudnmRQbuHMq3mw98Mw==',
+  'encryptedData' => 'SKEroJCLMaoDyhHIGDQcyt3rQqH4BQ5ZL3gtvwfvVgl5HgAx51pMHb8RB WFkBo7Dj0zI28sIk YGXXHKGF9GlSHjRPtZZLfDvJHh3wzaMpPDY57IXI5iQWOc9ud8AtHLw115PRsHfVXtll5XdHa/3WXMCRmRcyAQDlbJ9VHYw01lLdXcAqKA 5BYxVPijLNNMP04fg8GZSsBiA8SLyU4gwcTWzLRFLU4vEXxdPMmdLJp0km2gaB7UVlJW/KPTycnAFhzYGM48l7LIx533OavqzcO5je7e4OaldKGn l9m7wwUU5CfmBEkGNQYvYK1mdz0VUF qwzUSCazXsVtnGKfs1e0FQaAXGWcS8iAuzXFbvbEC8jt5pRstqFg/HpEHajD2LE/HJ8UkjvKoaw1VozNXUG4h33M1C H6WamrsOhvujGzxv4jtn2h1eE KhsUtO99LDTXu6lnO5kUKZtSJOQ==',
+)
+00:33:20 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081kAmPk0GBbEr1GR7Nk0r1xPk0kAmPY',
+)
+00:33:20 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'FM8UaD0Rg3XF6saUr7kl3A==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:34:08 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '061498bh1K0nss0QnG9h1ppbbh1498bG',
+)
+00:34:08 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'FM8UaD0Rg3XF6saUr7kl3A==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:34:09 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'mm6U/RYJfyuYA0S3xjqurQ==',
+  'session_key' => 'FM8UaD0Rg3XF6saUr7kl3A==',
+  'encryptedData' => 'NvsfSkC7y4hxQ34IHzZFPzCvjPXoE1V/pau41 GW5c m2Myc4T/ilCoiSUj0ce g4VGAoEWU101DSjFayii050t4sbZz1H73GAufa4sxObGo286wAFRdjacz5d8p8gkhREqSVJyX0QlEhI8zvL2nZtVs3tcY8lDAO S42ZjQyZEZ8UfISA4bBDX auOWrbwNrvGw/sgjdpME2k2AjzpP/HYnkUBe5Z4Sz2JkSNWJVg15VscPHFx8J5FMmtrZtx0CbAB4nVFLCOcXmDWUpBDrMpL9HSfzYYo837ZB6H6amZhmdQrss3UIL292Ms8hzRYejRBRcXeqyZXdBX04q bATfC4sPvAvQWI9LW7AqM9uGqSRLPfDSzFVL1Bdc/85DO6q4PD89rQTY00//ktj/9uBx5z2t2el8 yf1XthS9 RyRIeQdjz5Gjq4BrOjL4XiQluHYhRSIflnSTTi0V89D9XQ==',
+)
+00:35:55 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '011I5cC0258z7U0BHaC027knC02I5cCK',
+)
+00:35:55 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '+MRgp6tImbU6wEPdP72XNg==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:35:55 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'WP8QVi49W/6suQ6ZIxRXsg==',
+  'session_key' => 'null',
+  'encryptedData' => 'TAItrKS G0UJSAZtqHkurNt5BODoKbW5k9iLUYou/EnF9SU1Bi4WjoadOh9XOcG6Brqrui9wVZKCWdFQ6Pjo6 oarH5GuFaI cuRdD98IC53XWVfKd6fcqv/hI3omaGjxmmVi3Gm2BgVSJ28z1GBTUZ3Zh2TtvhbeBwZn gpmH7h/8RNLtl3EIZAZfTNEcMr2LNGTsWk1DdT7ecJ3uJgFoXO3EdVJ1sK763kcBE K5iOb6oYfSjWg/LDt2I V7x2Mh6c2 e0/5JwUgY08Hke8YvV6WN4ZI6mJA1gCiwJxENopWced5eNN7h/OnlrkwGyf4 RSIq4puZPtEaGboFxj5B8/hSxl9z0D5mx75Kv6zbWw3xkoIFNf sd3uteoGdJ7LzhwF D2rlgs7J7rR77gU Deqparx2zf4ddW03qo81UN9MTENwttAu/ OiCNYZkKZDrrhqKExWNTboZg4bC5w==',
+)
+00:37:41 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071yuYBd1Ivjiy01BqBd1yaaCd1yuYBz',
+)
+00:37:41 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '+MRgp6tImbU6wEPdP72XNg==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:37:41 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'iv',
+  'session_key' => 'session_key',
+  'encryptedData' => 'encryptedData',
+)
+00:38:33 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '011vE7q82uI9tJ04Wrt82HeTp82vE7qn',
+)
+00:38:34 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'CrDrrvHpieSN8r2Lb8j+Pg==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:38:34 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+)
+00:39:47 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071FIMrf0iEodu16wOpf06AZrf0FIMrc',
+)
+00:39:47 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'CrDrrvHpieSN8r2Lb8j+Pg==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:39:48 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'hQk4Ft R1GiqG9e4OR9imQ==',
+  'session_key' => 'CrDrrvHpieSN8r2Lb8j Pg==',
+  'encryptedData' => 'RVljMp1C xg8l6KFgWR4uhehiGPSBjtC/lYN/ afT3onG4V r7H4qQ2/5JfSp0Oquk7dYq8W9TPdKuP8Tb1YCLoUi7OK19EjOpjEA9u1kWfmNy57e6q2yV PH4EykKAa1pE/shqlmY FIFUVRitn0Srxj8tDXPN61dochb67xy4sLBd3tWFUe9aWyTx1YH7V4uGtuC7RjbIg LmcmxHXxQeidUiTOEgUqFj5cGawYH14eUDY3WOauyDEazJIV12oBXOZQjYMjSMkKl7C29gEz RM/ChZ/x6/ER4xqc11VyFoEKftSwMx0Rem3ZpAilBKoU472RyoxOv p4xWGb1ghegARgefN0yeEYYORGHCMvXpjcqrYV2cFPJL3flFmTSueB04EMZ3ZGbkXZt7EHDQ4qVZgCXDVmM18lDT5Xt1ddWDu/curRP5v wl8tbr4FIxVwtjhgP/R5f4o9lRIeJ 1Q==',
+)
+00:44:34 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '0815HmGi2TXNuB04dNGi2mqjGi25HmG3',
+)
+00:44:34 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'fyRa/avo6L0uiP7rcbrIlA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:44:34 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '+9cnkG7BdWkIz6Xesfhalw==',
+  'session_key' => 'null',
+  'encryptedData' => 'rZaP6Pw4wbMsDmGjeqb5tqZY2CHLCbKCPNfknYl/AzHRTPRLVObbxRgbBM8gbNxyjc1H0Cmg+AjLAmF5unBhLWgdJgA7gtCs8K8J55nnb2Ms2FazQq6RhwE3VRG/O82EEVCKtunEHHfxh5CkA/ywT/Jc/jXOahsuCS/AFEVW3hUYj7ACJsOvOVyiyCRBBeCrI8IbusdTi6Rd/ZA1PlxmhtRT5Q2wAvcUFMfn/XMysFs6algQrpn80IDpLkBIBj27th9DuBduvhQag9mjhHyKC1Pwa8yWwb0IJAuz8EvVK4ryeGhzeuQ9i9ZXA3RLyPLX6V4+QW2sarWrwHCqwpsw1ScZQla7b6dve7Qv1qvxu6dc/V3apXiDRrdsfl/Woj73bvZseUSmbG6v2koRoTMNU2MCC6gTW0VOOedlCu2ud9dQbWQ7G5RJzNGNwTVqHGLDCN0R+ZatgBZOza0GGZebNA==',
+)
+00:44:50 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '011TfL010RtrMG1hrf010lDK010TfL0h',
+)
+00:44:50 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'fyRa/avo6L0uiP7rcbrIlA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:44:50 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'ogVu+6ZK22rIpsjW2Sh+Yw==',
+  'session_key' => 'null',
+  'encryptedData' => 'AUSHdb9MqlKMsmiiEBXjulEm/yUSxAbiW7RLHVYlO3og2sBWPwCNgSn6fkXbId6LgNC2PCcDOlLemyzHYhLLPSqnfM7LtFsvKeU7p+EQOUW9G6t9AbPL+hdkVSXNkgNwaciG6qTcIB8g/g1y24OtuDgRNf6ukuimec73w7aAdAEEzEsoxFO/b+0Ugybom70E4vyYoBqfgLXm3hI30TRAotvNNmOqg1nz20qtqgB1QnLY0CYggm7tF8BF+/4jflzMfwgjo8ApzN9nhoOrjTCEVmblb/10nT0HDNiSgMRNqS3tJKq8VUHWwcvUM1QcnS0WSuQ3Om7F23rKvjBln/9CifLx2Yws+Hsx3lXpksH/9SgLtxnYh84LaRWaFKSDVUY9m4hXO+BQHk39BtN7+Naj1q+UkcwubltoBfNaGS7ReWAPxk7t7FkbeQJjS0axY/abglD4L8xAd7OyPC+sGApYkQ==',
+)
+00:45:14 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071wcw3w1Gk8rg0cYy2w11vs3w1wcw3n',
+)
+00:45:14 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'fyRa/avo6L0uiP7rcbrIlA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:45:14 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'z9mDjSGElwe7E1FBn/V/uw==',
+  'session_key' => 'fyRa/avo6L0uiP7rcbrIlA==',
+  'encryptedData' => 'BjWSRcO8QgUgHUUSklXoy97UL2e2uUHsVqXgaXRJxxho+MAFsohUqxhNnzNKJOxnvv4btKXMhHS3zGMDb1SVa9K0pL3EVjPxhYNBElgR0X/82ovjNK/2ElWd7s6GS2yn3skivnE2WGk8R2B8ea747IrvLvhUk4bCFBRoW2EzZUZMAz0LaR83N+HQiIwQmAmZ9KVhdhAQtluGQEmQc5je8ZUADAqAEXn/ns0FNJdzAMhcR5JtMUOnx+H/p0uyD97HJBXGldlg0m12hsAnl/ePJ+FVpfW0WgDKqdLM5XelgYilfA2ea/OdH4BkS6FQjKyx59WmRYVq3LHZPITZWT8eCEJeShM2Zz0Oyglm3nrODlG8aBttjnp/EqTPNtFTXdQdkdTltKBDdf+xjOwsEuewRENq4hQHLJyeQTEv9Kxokwp+X9Me09N544xFo0E4lWYij9fVZbqzmE7HrzdJQqzEUg==',
+)
+00:45:14 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	35	array (
+  'openId' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+  'nickName' => 'lm',
+  'gender' => 1,
+  'language' => 'zh_CN',
+  'city' => 'Xuhui',
+  'province' => 'Shanghai',
+  'country' => 'China',
+  'avatarUrl' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqy7icL3mg8jPcwt12vxj0xMjYibMQQyJqR0DfAzozib40HEAPVgn02kk6DWYiclewjziaSWSYC6nNYohA/132',
+  'watermark' => 
+  array (
+    'timestamp' => 1554828314,
+    'appid' => 'wx02076f6180cdcbc5',
+  ),
+)
+00:46:07 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '061h1yv91iLTEN14XHs91rOlv91h1yv1',
+)
+00:46:07 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'fyRa/avo6L0uiP7rcbrIlA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:46:08 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'CVPtBceFTbBQjxnj0kPybg==',
+  'session_key' => 'fyRa/avo6L0uiP7rcbrIlA==',
+  'encryptedData' => 'dvsTIiYEH5iC+JgqrikGjSTQK2Bh2SjIzL1fewnjvN8SE15rJlteckcm2EEFlp0dTpf4W4keGD0tqrOSPdzNKXPSyv+J9D6wBxTR9rULpmwr2ZUDIJvuHQObbBK/t6SeLlki9EVXIhdLB5TtPhgPoUQYZp7iD9rnEH7RyTbwlTBxluo2Z8bkxEUy4YUTTXShG5AA1GbO1eOciCykpwlWOW72Etgjz+i5cCwCYM0j+0svUCbuMmuM8YEh91fqcNlALCGkPDSST10jRU2CK8o4eZeurp1jXhEvRHlY60mg2XfwmgMU9gUwSQwGqqfN0bwe7XBRPn32JeI3eG8k0UFh9TBWw8nW0+h3mhKSpiPbaVGtF41LsDuxupL5iAXAfd7vTvWNDAnjSp7H12hfmhZE8oyn4uuu1OXNbM4toychh2xfQZZpzccMMdKBcWR1MofwjIkAsojCzR8i9N12F9M6pQ==',
+)
+00:46:08 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	35	array (
+  'openId' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+  'nickName' => 'lm',
+  'gender' => 1,
+  'language' => 'zh_CN',
+  'city' => 'Xuhui',
+  'province' => 'Shanghai',
+  'country' => 'China',
+  'avatarUrl' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqy7icL3mg8jPcwt12vxj0xMjYibMQQyJqR0DfAzozib40HEAPVgn02kk6DWYiclewjziaSWSYC6nNYohA/132',
+  'watermark' => 
+  array (
+    'timestamp' => 1554828368,
+    'appid' => 'wx02076f6180cdcbc5',
+  ),
+)
+00:47:11 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '011yGU9S0fVbI62mkuaS0yHB9S0yGU9F',
+)
+00:47:11 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'HOF0DwY7uPGi573PXnSLiA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:47:11 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'LUJuNp6QcjDeAxdpo9fTFA==',
+  'session_key' => 'null',
+  'encryptedData' => 'a/TmhbqlwsOUn45aCT79KZegE7BCOUsmOBSueHbuEcGRn1cWXAysn6hXgiCfjpj2DGySjjN9mJsW1CCOFOc5Pt7WeZjfV/vSB8wLthwp+1dBorW7a03jICxn62rFE5b2GfdzJq9qJPnyFJGNOobCXGY8SBuZU8vzuNyKkp7c4OK9ddaPQiRr1JjLdlKiDM4JTEOpuskxm5qyhmIY47W/o2m5kZqkpXH1lebySkn7pF6yQvOy92caRwNOKnyfkgIYA60Aw3XrQWT8sZHp5Zao1nE+AoAxvxxtNkknMMRDC4i8MxRxhztjNHT2Ynjl6hOMaamSm7UXIlrstBK3x8+hDW6pE8KCb7stfvUFVVubvOkutfH4X1Vk3Ktoo7s6ha9pvzL3TED/Qrjp08FbxhaMz8CwDfzso/rlYdZpWwfKbtHaJ2oNNbpoiZwEndahbK7eXBuoq1yemXWkN24WAVUaiw==',
+)
+00:47:24 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081PJvpc2HTHtF0O92pc21zmpc2PJvpb',
+)
+00:47:24 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'HOF0DwY7uPGi573PXnSLiA==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:47:25 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'fD9OeNdKRwAQAELOy8UEmw==',
+  'session_key' => 'HOF0DwY7uPGi573PXnSLiA==',
+  'encryptedData' => 'V6ZzvST1wQuVWbM89O9wCbxlHGOXJHcfU8iz4/YMMqW5hCV0RrZAC/nodbzHq7n6psaFD8dU1/0deKvmlV6uvS+yBoC0mNLv9DINYiviqQ+EqP7ucK+ohMFaqnL40RfrrdroZ0NVhNoRDYFfJAEW7Byd+zB7Rp/7mvaPTq96y5E72ywuTn6lXMo4i6aRVa9K1mY6QHPV0b+VOfIja8p934MXi9K23FFsBj1pBDrZVVnzM/O3a7H//SAwqAOzSoZo2xndAiNbhQUEo1hy3AH3njxpdlFvq8NvEd+1jJZHVq5EMIzhpuAxjM/HH0VT76YMht099NbdAr5RJ5txasziAg0xvOfsBNKgL82CvZDbh/mR+fiDfcmZdF/quVWaBV3AQLhuSIcxFEvgRajlfzwg2Yaw3NF/fxczbKXVGM0kkUxqkqikh9uCs86Sx3ouEXQTSJjwNNgG7xXCL5/4idA5fg==',
+)
+00:47:25 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	35	array (
+  'openId' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+  'nickName' => 'lm',
+  'gender' => 1,
+  'language' => 'zh_CN',
+  'city' => 'Xuhui',
+  'province' => 'Shanghai',
+  'country' => 'China',
+  'avatarUrl' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqy7icL3mg8jPcwt12vxj0xMjYibMQQyJqR0DfAzozib40HEAPVgn02kk6DWYiclewjziaSWSYC6nNYohA/132',
+  'watermark' => 
+  array (
+    'timestamp' => 1554828445,
+    'appid' => 'wx02076f6180cdcbc5',
+  ),
+)
+00:49:15 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071MEHJQ1G0Vq31uGlIQ187yJQ1MEHJ-',
+)
+00:49:15 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'qbGUvg2tVRRclS/1ppkRKQ==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:49:15 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '0yZLyWs705FaTd9VQ2cPMg==',
+  'session_key' => 'null',
+  'encryptedData' => 'TnMMx48hEAyClmEMEGn+O5va3laAVxdlcwd7JHrsooXkXhOYa38xjW2TRQ64E+x4zpExW3oYbYpsK0R6wVye5EH+Linl4t68apwfbyvYI26ULBxeBFl43OooiKV1450Mc+RM5bQR4JSwBUcweYxwnKJ53YL+GshwrouqWqQIzAK3hda2KqIKK5phxyx7VKZ1NW/irqvBNjaoIL8PUo9kDq/0rHWntsWxybRuOMGt5JVtESHoGBJZEgZPgcjuKrSVDne7P4G7SFITyLMczCEZ0ZmgPdMlWvymEj9uz+z77/+ni8HZnfMhqUbulOWF7wA5llyk8Ni09Xoi629xaMkOO77HcwzUOdKob5Ru2ScNDJ9NF5hYf0/1ys2jnZasOe2fJAOAJR/zxpyxuiiNJSv2oRxT+HeS3/saiN6JSyhnBo0ycJe9zwgpimUMKZMNBxrzGobv1biN07YE7v07+xhWRA==',
+)
+00:49:32 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '08187UMl1yIDio0jpaMl1m1zMl187UMO',
+)
+00:49:32 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'qbGUvg2tVRRclS/1ppkRKQ==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:49:32 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '/zGer/qky41wfzpMzH2pfQ==',
+  'session_key' => 'qbGUvg2tVRRclS/1ppkRKQ==',
+  'encryptedData' => 'OnBKHZoAzHjDGgiblYzl0JrrZj/XMqzLONtnpKE9MwJj/pcskKamcBy4dC7ll55dZ7alrNUdQI98NwzvdeMhwvocB/kYLORznmVbaUdgz7HIrfGwRmjIBlPP1nLujQvbeJB1borCjbKZNhnISS/IyMXWmSprpk+rlRnVmHZ2Y/6snqSqRQUs1JfKQrrkAD/xToRTGeQRKAeApp0G53xq3JzTmqL/ziPUNO/iHPDeerOwyw75I2eyg2xzRyf/DH523tFBYMnH0HgoSFO/iWsVRvDZZUlaNWe0xcEfR47RR4A/sbz62kjuDCeUFJF/oz3ypYe2mhMLRE5UmGotD6WXF/fuMtLlPx5RP7pXgssLjN78tzkwVYN4BaORn+13jq/JbwqKVJSEYDUSo0UkIvUYjLdk84aXhwhGyj7Oltznj44V6QReOQvGCqn2t2pFLoQpvdDaalk8KYWzJjSyi3mPfQ==',
+)
+00:49:32 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	35	array (
+  'openId' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+  'nickName' => 'lm',
+  'gender' => 1,
+  'language' => 'zh_CN',
+  'city' => 'Xuhui',
+  'province' => 'Shanghai',
+  'country' => 'China',
+  'avatarUrl' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqy7icL3mg8jPcwt12vxj0xMjYibMQQyJqR0DfAzozib40HEAPVgn02kk6DWYiclewjziaSWSYC6nNYohA/132',
+  'watermark' => 
+  array (
+    'timestamp' => 1554828572,
+    'appid' => 'wx02076f6180cdcbc5',
+  ),
+)
+00:51:44 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '001kSI0v0xBCJj13Vb3v0kvU0v0kSI0R',
+)
+00:51:44 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'HM/6qX8S47MgHFMFrtiFqg==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:51:44 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '4Jwd177tIOIJ654mzDGuGw==',
+  'session_key' => 'null',
+  'encryptedData' => 'ceUrcHw+Kbc5yolzP3+GOsd/e6/UINs0Fldn73KAzENe8smu7+wfqlVvcgKa3phUzJky8JfXiWXEuFmvQA2HMKfxjcnVGSJkFjui2MX5AqTai5iI5rOfsJAMEJ6NveR1Rpj+my+qy2M0VeolbfJX24EF1AGq7s534ln4/PetWyTHdctGkLx9n/oHDfwx5iF0Fpy8rYjfXzHxxAtQdKCmzCltVbWaVs1KmNNhbaafdXtVaBzvIlbx3P0yoQicJu2YmNu8gi1IsP7zkWyd6IHhii941TFSekdFDxbCvQgrJ8jJhJNc+YfnQyWXsn2l6rfalLN1b/9+IP3wgufohxsS2NQVlID3febh2gQrDc71fGyVuBfOBhQlcZiZhSEMCqCpNUMaLlNYWqH8OdzhuezmxT81JukNVcsna137DDKSEsoloed1ebJhj5BFtT2gVQsJK1QvudjvSbFvZo7tq8xN3A==',
+)
+00:51:52 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '0710i39e20CF2G0kce8e2o2Y8e20i39m',
+)
+00:51:52 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'HM/6qX8S47MgHFMFrtiFqg==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:51:52 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'Mp427Fe8tso6MVHyr0yZGA==',
+  'session_key' => 'HM/6qX8S47MgHFMFrtiFqg==',
+  'encryptedData' => 'hR8Qj9sM/etMNH2yJoaW0sPHwW2Tuc8fe+0NINDeEEdmiRw//XPQoK5ZrdOFnDjFsNPyyA0LhDs9kvViwu7vV1D9Fq+cEyY6IhwgTvuW65thjjzpHmktYormm8tLuhW21/eyx+/DHx0/zggw/sXvzExcD/zcfueJsogbbHLmA4/WRvpZhMf+oq6WobICLQS5f2+UAqbGS5eaYvoOGunv01uHIaFEMKzib9EqOJNEYsGoi+rm4b9C8Ia+CgI0ZlzZS1q0CmUEFxMSA8X0DybH9YgHgBz6VerBSOwg42cGIu6gW1ExImYm+vPhdIqguO3ZXUPZlngiFatZKGF9FhTWNNuk5dyeJd50Hlk8H9UnthjAbwD4dktWRZSyCy4tq8u4Flrmn/BZs2UWNpxCLe8IA9eypu0GSYafhyAynxi5hBVqSss1oa/GEU2Uka6XaxK8B343Isa81lbXNipjiiOf7A==',
+)
+00:51:52 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	35	array (
+  'openId' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+  'nickName' => 'lm',
+  'gender' => 1,
+  'language' => 'zh_CN',
+  'city' => 'Xuhui',
+  'province' => 'Shanghai',
+  'country' => 'China',
+  'avatarUrl' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqy7icL3mg8jPcwt12vxj0xMjYibMQQyJqR0DfAzozib40HEAPVgn02kk6DWYiclewjziaSWSYC6nNYohA/132',
+  'watermark' => 
+  array (
+    'timestamp' => 1554828712,
+    'appid' => 'wx02076f6180cdcbc5',
+  ),
+)
+00:55:39 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081mPLHy00h6dd1jmBLy0SfuHy0mPLHH',
+)
+00:55:39 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '8f8Tj7SYbCky3cNM0KIM4Q==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:55:39 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '97Ok3BEHx1s91T5vuoQdJQ==',
+  'session_key' => 'null',
+  'encryptedData' => 'tn8UHUTkVyprtxnLsAfVntPxQnvxB/gYkUIsXsBTPoqdza9Xe9v87QVFQC7m1CUaGthLTtMKUEBzPUfQrNbtJcvx3CP6b3Uj4ZrbpNcrAjTaaPsFFP3oFt5x57Gl66zQAgDZYMajU2rO7slovYwzMXhCSL99IgYO5b/zT176c9A2AT4oXa1RSx8UEmQ2/V5rF0mDygzdfoVR54yVqQ5rv0lqvAS/DBYMJhesY/BdqVhM5UvbVF8xtA7JCw6LMPKi+p33TkZ0M15PH4WPqxl6OyLNRJw7wZw8uIYdmsGVHvsRr/46cQgV5zmQgcjnZWJwBzbdulDXtSYLaXu48rM9BojwP57kvWcrnMQnmkj4c4WxQTaKUIPgjLAZgLxNR0ajAIIuf2ofmMrSHtAZJLHThAiHPZxYymKaO+TO5dYm36gDL+e94ugIw7BpYZ7asL8pokVlo1515zR5xB+UKIo4MQ==',
+)
+00:55:48 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '021NxI1E1pv0b60PRyYD1kpQ1E1NxI1k',
+)
+00:55:48 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '8f8Tj7SYbCky3cNM0KIM4Q==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:55:49 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'jhSLkmhtT8DojvSj4WT2GA==',
+  'session_key' => 'null',
+  'encryptedData' => 'ZvPzB9teufysNAr5lsBbMG3BxuMCRUSAYARbolqlODzW3o7OrDQJq7gXcPcN3sEpgnb5AvcQKmbaLzG0okx2EUn5YiGs2Z4XAfe8CR8xEI57+Q1RR1Y0W0xA3VfxV8W9L+KnOVgFB5Mk2H9MrFTE7nPmXR89+SdrrCkXyjI/eXHZ46XIMuY0KU56NNTFycyUhJlTQnhNJkonJMqkH+SKGw+1ihZprGIPd+CWtv7apmKGpIF4vJ4a4BP1B5wKHB5q2eBps+TAIW0UBmT11cRsPQPX7bHn5z9jp+aOykqz2jX/zC2DUk5cSbtCCQzdz/BD08y0+ko4mwjEgX5l1XZvKvBGpzcJbcQagirrP5gyoCoWd0HDPdvtxZ7msRzLu++InoBJbmRcUjbi6jkcb1EUxv4wtd7AdJXjVX4HyA3c5oSu7xTcP6lmjWVs1ReT71mb6fNmlpPUX488YSd0n9cYqQ==',
+)
+00:55:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081nl1hR0iOCK525c5iR09PUgR0nl1hC',
+)
+00:55:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => '8f8Tj7SYbCky3cNM0KIM4Q==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+00:55:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'fE7Ji411fhrF0IHRQQnAPQ==',
+  'session_key' => '8f8Tj7SYbCky3cNM0KIM4Q==',
+  'encryptedData' => '53HTsQ9OB58AnfTW+rYO53uZI+hP6vO5BCyX4fT9SwmQpMKTxzywsQM4LtnxNwtFBAtEhuDMpyOe2ZCYpydqNlGqCLePTZe0uQrzIQ7qEMwys5AqBPtjhRiryYT8IZSii5MrZKo1XJGeeqa8eaaDkqOmT/BJJ5uJUIv/ISnFFKNpO3lldqopBw/YS8dixi1DnW5kxNX/SwzYVmN6+wc20n2GHMJ3ZCP9+f9lGJjg45g+HKmLbs05sWKi6dnADMt23cS2uOpsYvpPGqXDuCzqDDtY1T0rwSVKAnEnswv9t3yhIH+QD3rnuyDSnT5NFyQKhSwftLH3DI7KExm94M9zdwOlHzw61vAgGR8Wr+Bg8nfYYzpv+gd3JsgfJoWWEplHYuHm9bAzg8PhCMixGIZJOL+0o44+Zx2tB2ATw0FmcSPKNJ9vtXy53jARoJizSgcX5mgJ3E+6C5L0t6ek7yVdfg==',
+)
+00:55:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	35	array (
+  'openId' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+  'nickName' => 'lm',
+  'gender' => 1,
+  'language' => 'zh_CN',
+  'city' => 'Xuhui',
+  'province' => 'Shanghai',
+  'country' => 'China',
+  'avatarUrl' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqy7icL3mg8jPcwt12vxj0xMjYibMQQyJqR0DfAzozib40HEAPVgn02kk6DWYiclewjziaSWSYC6nNYohA/132',
+  'watermark' => 
+  array (
+    'timestamp' => 1554828959,
+    'appid' => 'wx02076f6180cdcbc5',
+  ),
+)
+21:36:07 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '011m0CYW0IEhr22nmm2X0BadYW0m0CYo',
+)
+21:36:07 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '5tQacxFfVNGoX05JTh7srQ==',
+  'session_key' => 'null',
+  'encryptedData' => 'QBF0gND8nTAr6/6wBSdYuYnXhvmpUHeBTMVTjtVwfCBNwD97YEOGA8nAC8RwkWCNF17u4pKadnlOzx5+yeU2sNbL60jQI5A16kd1u39RLAerNOc4xhn/TI0vhWKNqO+Ircwt55Zj/+a/dOIViyTXiIzhlc6C1vtDluGyRy4//6rkbbN+45C8i3sVcd+Bb0218Z9mVghBbDGjRJonVqGe1GtRtzfwxqk1xdyu5s7dGA1g06bTZuWPnQDp3jmJ9OSvzRvGWft+5OcvQ6b2VRkxA5mikYrewwZzbofHgYtEIMsuBW1q99r65YMHMFYqDFa35HxvalfJxVlVk5OlyHBYjkfG9okumPI48NxIw31IbTpv/9AcEcLtyfZd3DFqL1jG1bt6sWVbjsbUJPVy7uMW8MObJ733g96N99F0Wl4p22koDzeLJVxPtHufKRsbCNtWIwQoGl11lQyIhL8kroeKFA==',
+)
+21:36:08 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'R45q90B/RcTCq873Y2jnrQ==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+21:36:19 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '081hBDTH1tEza200LaVH1PiDTH1hBDTN',
+)
+21:36:19 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'R45q90B/RcTCq873Y2jnrQ==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
+21:36:19 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => 'Mrij2O1oYLUTflqHm83pQA==',
+  'session_key' => 'R45q90B/RcTCq873Y2jnrQ==',
+  'encryptedData' => 'UUDZwg0uH3ZBe251v5WW4/JShBEeGdqA8Ob9w1YVs32FtCGXAUcfxiQnTljOx/oZTnl2ai4TiXgJ+mxYlD6M88V9WLLd5DG4c/ZDZL8cntqn0gghT0hZd9qQ0ucY62s4k2SIwiNmlxbaBCXMEEjoWToEP+do93BBUiqQW5GDgrAQypbbwsSimN+2UYdPhNfvXQPNqWVQjSgE1R5OFS76fVf1UGrTmd2lTGlKhxbD6RiiuZ/PJOnRCHoxySBbzBwN7sTjqFiip2lfCFwAbuM2HNyq6PkEDi485pcl9yZ8u2vTp9pMOrcCxRGSHY1QcfKyZFFX5IpKiF5owPlk/TgSg/TOD5qKdJlTYQSnwaWafeDE5idw3qi+TX9/op6YGOIrEAOR6mU4P6wCcx2XcTHRQW/s7SKwDyAczUHUx6j/DDhvK8dsd7AUpxFoyypp9xWzIugL81SfWgzQUyYzYKjeaQ==',
+)
+21:36:19 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	35	array (
+  'openId' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+  'nickName' => 'lm',
+  'gender' => 1,
+  'language' => 'zh_CN',
+  'city' => 'Xuhui',
+  'province' => 'Shanghai',
+  'country' => 'China',
+  'avatarUrl' => 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqy7icL3mg8jPcwt12vxj0xMjYibMQQyJqR0DfAzozib40HEAPVgn02kk6DWYiclewjziaSWSYC6nNYohA/132',
+  'watermark' => 
+  array (
+    'timestamp' => 1554903379,
+    'appid' => 'wx02076f6180cdcbc5',
+  ),
+)
+23:07:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/MinRegister.php	User_MinRegisterController	14	array (
+  'iv' => '0F6UYrYOTYHWz1/jfdlSrQ==',
+  'session_key' => 'null',
+  'encryptedData' => 'xjJz4JRq1k09OuSixywrAq3ITVbwCk+rjj7tacz6umNq7L9Rif0omvjFgz1Wlsjsx5OSL1E+s8aGfdx7b0YCG4u85qqRe/c6SMFbwMOr+soVUpEhga5ty77I+hOYfyzUp9r4roafA5vWu7CF2IThq/AsVXdaGODMAKFlpKI0S0nHVgM4SEtzEHJ/QUqK3hcZ5whbChO2ZtrUMdDY60UqndIUALFnmggQDzlmaFIdmhX6weuB8YsVBLl0Hw6hefbeGKZLKSxRWgfvIegoiz/PGKonjkrsNKiN6dNeFGhMgsWW2IPPOTHrPIr8kdWYSo0FwtI/OtdC5PKEosvJ5DyAvJl4CP1izVkoJmlvaAF4K3LElin/ivmPk+Isaa7stxc8bEI4Y7zhZflYRRwsJpTmTfqfL04fYFNFjfQQepxCcdg8yR5xGVrpjMGxB3sZoihrLQpYPaF9vhFstvBEw+yUeQ==',
+)
+23:07:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	16	array (
+  'code' => '071JPL0i1RGdtu0aWKYh17KR0i1JPL0k',
+)
+23:07:59 INFO	/data/webapp/php-v2/PROD/NEWS/2017_08_18/app-kkh-news/controller/user/Authorize.php	User_AuthorizeController	32	array (
+  'session_key' => 'uOD7oFUjuai0hgIPmsW/jw==',
+  'openid' => 'oqBi-4lOWk_gEhHF-HXPOJfRip6c',
+)
